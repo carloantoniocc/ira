@@ -1,0 +1,31 @@
+Sres.DEIS:
+
+Establecimiento:Instituto Traumatologico
+Fecha: 2009-06-09
+
+ATENCIONES Y HOSPITALIZACIONES DIARIAS EN URGENCIA
+Atencion y hospitalizaciones  Total -1a   1-4a  5-14a 15-64a 65ymas
+1.TOTAL ATENCIONES URGENCIA   4	 0	 0	 0	 3	 3
+TOTAL CAUSAS RESPIRATORIAS    0	 0	 0	 0	 0	 0
+IRA Altas                     0	 0	 0	 0	 0	 0
+Neumonias                     0	 0	 0	 0	 0	 0
+Crisis obstructivas bronquial.0	 0	 0	 0	 0	 0
+Otras causas respiratorias    0	 0	 0	 0	 0	 0
+TOTAL CAUSAS CIRCULATORIAS    0	 0	 0	 0	 0	 0
+Infarto agudo miocardio       0	 0	 0	 0	 0	 0
+Accidente vascular encefalico 0	 0	 0	 0	 0	 0
+Crisis Hipertensiva           0	 0	 0	0	 0	 0
+Arritmia severa               0	 0	 0	 0	 0	 0
+Otras causas circulatorias    0	 0	 0	 0	 0	 0
+TOTAL TRAUMATISMOS y ENVENENA 4	 0	 0	 0	 2	 2
+Accidentes de Transito        2	 0	 0	 0	 1	 1
+Otras causas externas         2	 0	 0	 0	 1	 1
+TOTAL DEMAS CAUSAS            2	 0	 0	 0	 1	 1
+
+2.HOSPITALIZACIONES 
+POR CAUSAS RESPIRATORIAS      0	  0	  0	  0	  0	  0
+POR CAUSAS CIRCULATORIAS      0	 0	 0	 0	 0	 0
+POR TRAUMATISMOS y ENVENENAMI 2	 0	 0	 0	 1	 1
+Cirugías de Urgencias         2	 0	 0	 0	 1	 1
+POR LAS DEMAS CAUSAS          2	 0	 0	 0	 1	 1
+	Atentamente

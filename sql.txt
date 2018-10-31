@@ -1,0 +1,8 @@
+select fecha, 
+         bronq_m1+ bronq_1a9 + bronq_10a14 + bronq_15a64 + bronq_65ym +
+         asma_m1 + asma_1a9 + asma_10a14 + asma_15a64 + asma_65ym +
+         neumo_m1 + neumo_1a9 + neumo_10a14 + neumo_15a64+ neumo_65ym + 
+         influ_m1 + influ_1a9 + influ_10a14 + influ_15a64+ influ_65ym + 
+         larin_m1 + larin_1a9 + larin_10a14 + larin_15a64+  larin_65ym +
+         resto_m1 + resto_1a9 + resto_10a14 + resto_15a64 + resto_65ym as totira
+     from aturg_urbana group by fecha order by fecha desc

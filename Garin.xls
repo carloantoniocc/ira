@@ -1,0 +1,38 @@
+ 	 	 	 	Consultas de Urgencia	 	 	 
+Grupos Edad	Total Urgencias	Resto Urg.Médicas	Total Urg.Quirur.	Todas las Respir.	Bronquitis	Asma	Neumonias	Influenza	Laringitis	Iras Altas	Resto causas
+Total General	10591	6291	15	4285	480	114	115	25	59	0	3492	
+Total niños	2861	975	0	1886	194	39	13	2	28	0	1610	
+< 1 año	182	50	0	132	27	3	3	0	4	0	95	
+1-4 años	1137	324	0	813	103	26	6	0	15	0	663	
+5-14 años	1542	601	0	941	64	10	4	2	9	0	852	
+Total adultos	7730	5316	15	2399	286	75	102	23	31	0	1882	
+15 -64 años	6486	4433	15	2038	193	50	44	17	30	0	1704	
+65 y más años	1244	883	0	361	93	25	58	6	1	0	178	
+ 	 	 	 Atenciones por otros diagnosticos 	 	 	 
+Atenciones	Total 	-1 año	1 -4 años	5 - 14 años	15 - 64 años	65 y más	
+Total causas circulatorias							
+Infarto agudo miocardio							
+Accidente Vascular							
+Crisis Hipertensiva							
+Arritmia Severa							
+Otras Causas Circ.							
+Total Traumatismos							
+Accidentes de Transito							
+Otras Causas Externas							
+Total Diarreas							
+Total Demás Causas							
+
+Derivaciones	Bronquitis	 	Neumonia	 
+	Niño	Adulto	Niño	Adulto
+Total	237	278	24	99
+Casa/Cons.	233	278	21	93
+Hospital	4	0	3	6
+ 	 	 Fallecidos x 	 causa resp.
+Grupos	0-14 años 	 15-64 años	 65-74 años	 75 y más
+Al ingreso x otras causas0	1	0	0
+Al ingreso x IRA			
+En Urg. x otras causas0	0	0	0
+En Urg. x IRA			
+Hospitaliz. x otras causas0	0	0	0
+Hospitaliz. x IRA			
+Examenes IFI 0	0	0	0

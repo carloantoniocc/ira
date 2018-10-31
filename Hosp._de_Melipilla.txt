@@ -1,0 +1,31 @@
+Sres.DEIS:
+
+Establecimiento:Hosp. de Melipilla
+Fecha: 2009-06-30
+
+ATENCIONES Y HOSPITALIZACIONES DIARIAS EN URGENCIA
+Atencion y hospitalizaciones  Total -1a   1-4a  5-14a 15-64a 65ymas
+1.TOTAL ATENCIONES URGENCIA   284	 9	 29	 82	 141	 23
+TOTAL CAUSAS RESPIRATORIAS    177	 8	 19	 61	 77	 12
+IRA Altas                     42	 1	 8	 19	 13	 1
+Neumonias                     13	 0	 0	 1	 4	 8
+Crisis obstructivas bronquial.53	 7	 11	 23	 11	 1
+Otras causas respiratorias    69	 0	 0	 18	 49	 2
+TOTAL CAUSAS CIRCULATORIAS    6	 0	 0	 0	 6	 0
+Infarto agudo miocardio       0	 0	 0	 0	 0	 0
+Accidente vascular encefalico 0	 0	 0	 0	 0	 0
+Crisis Hipertensiva           5	 0	 0	0	 5	 0
+Arritmia severa               0	 0	 0	 0	 0	 0
+Otras causas circulatorias    1	 0	 0	 0	 1	 0
+TOTAL TRAUMATISMOS y ENVENENA 23	 0	 2	 3	 17	 1
+Accidentes de Transito        0	 0	 0	 0	 0	 0
+Otras causas externas         23	 0	 2	 3	 17	 1
+TOTAL DEMAS CAUSAS            78	 1	 8	 18	 41	 10
+
+2.HOSPITALIZACIONES 
+POR CAUSAS RESPIRATORIAS      1	  0	  0	  0	  0	  1
+POR CAUSAS CIRCULATORIAS      0	 0	 0	 0	 0	 0
+POR TRAUMATISMOS y ENVENENAMI 0	 0	 0	 0	 0	 0
+Cirugías de Urgencias         0	 0	 0	 0	 0	 0
+POR LAS DEMAS CAUSAS          0	 0	 0	 0	 0	 0
+	Atentamente

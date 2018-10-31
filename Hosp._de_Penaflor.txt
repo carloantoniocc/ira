@@ -1,0 +1,23 @@
+Sres.DEIS:
+
+Establecimiento:Hosp. de Penaflor
+Fecha: 2009-06-30
+
+Atenciones diarias de Urgencias por causas respiratorias
+Causas 			 Total 	 -1 año 	1-4 años	5-14años	15-64años	65y más
+Total atenciones urgencia 	339		15		29	80		191		24
+Total Causas respiratorias 	226		11		26	71		108		10
+Bronquitis-SOB 			35		6		8	10		8		3
+Influenza 	 	 		22		0		1	6		15		0
+Neumonías 	 	 		8		1		1	0		3		3
+Resto causas respiratorias 	161		4		16	55		82		4
+
+Hospitalizaciones diarias en Urgencia por causas respiratorias
+Total	-1año	1-4años	5-14años	15-64años	65y más
+0	  0	  0		  0		  0		  0
+
+Hospitalizaciones diarias en Urgencia por otras causas
+Total	-1año	1-4años	5-14años	15-64años	65y más
+0	  0	  0		  0		  0		  0
+
+	Atentamente

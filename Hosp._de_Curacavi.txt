@@ -1,0 +1,23 @@
+Sres.DEIS:
+
+Establecimiento:Hosp. de Curacavi
+Fecha: 2009-06-30
+
+Atenciones diarias de Urgencias por causas respiratorias
+Causas 			 Total 	 -1 año 	1-4 años	5-14años	15-64años	65y más
+Total atenciones urgencia 	167		7		14	46		91		9
+Total Causas respiratorias 	89		6		12	22		47		2
+Bronquitis-SOB 			26		5		5	5		11		0
+Influenza 	 	 		49		0		4	16		28		1
+Neumonías 	 	 		0		0		0	0		0		0
+Resto causas respiratorias 	14		1		3	1		8		1
+
+Hospitalizaciones diarias en Urgencia por causas respiratorias
+Total	-1año	1-4años	5-14años	15-64años	65y más
+1	  0	  0		  0		  0		  1
+
+Hospitalizaciones diarias en Urgencia por otras causas
+Total	-1año	1-4años	5-14años	15-64años	65y más
+1	  0	  0		  0		  0		  1
+
+	Atentamente

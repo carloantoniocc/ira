@@ -1,0 +1,23 @@
+Sres.DEIS:
+
+Establecimiento:Cerro Navia
+Fecha: 2005-10-10
+
+Atenciones diarias de Urgencias por causas respiratorias
+Causas 			 Total 	 -1 año 	1-14 años	15-64 años	 65 y más
+Total atenciones urgencia 	105		3		43		50		9
+Total Causas respiratorias 	65		3		34		23		5
+Bronquitis-SOB 			12		1		5		2		4
+Influenza 	 	 		0		0		0		0		0
+Neumonías 	 	 		0		0		0		0		0
+Resto causas respiratorias 	53		2		29		21		1
+
+Hospitalizaciones diarias en Urgencia por causas respiratorias
+Total	-1año	1-14años	15-64años	65y más
+0	  0	  0		  0		  0
+
+Hospitalizaciones diarias en Urgencia por otras causas
+Total	-1año	1-14años	15-64años	65y más
+0	  0	  0			  0		  0
+
+	Atentamente

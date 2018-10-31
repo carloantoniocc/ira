@@ -1,0 +1,23 @@
+Sres.DEIS:
+
+Establecimiento:Hosp. de Talagante
+Fecha: 2009-06-30
+
+Atenciones diarias de Urgencias por causas respiratorias
+Causas 			 Total 	 -1 año 	1-4 años	5-14años	15-64años	65y más
+Total atenciones urgencia 	219		12		29	51		120		7
+Total Causas respiratorias 	145		12		27	34		69		3
+Bronquitis-SOB 			40		8		14	3		13		2
+Influenza 	 	 		26		0		1	9		16		0
+Neumonías 	 	 		5		0		1	0		3		1
+Resto causas respiratorias 	74		4		11	22		37		0
+
+Hospitalizaciones diarias en Urgencia por causas respiratorias
+Total	-1año	1-4años	5-14años	15-64años	65y más
+4	  0	  3		  0		  0		  1
+
+Hospitalizaciones diarias en Urgencia por otras causas
+Total	-1año	1-4años	5-14años	15-64años	65y más
+1	  0	  0		  0		  1		  0
+
+	Atentamente

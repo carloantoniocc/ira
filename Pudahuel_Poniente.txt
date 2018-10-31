@@ -1,0 +1,23 @@
+Sres.DEIS:
+
+Establecimiento:Pudahuel Poniente
+Fecha: 2005-12-31
+
+Atenciones diarias de Urgencias por causas respiratorias
+Causas 			 Total 	 -1 año 	1-14 años	15-64 años	 65 y más
+Total atenciones urgencia 	100		7		30		54		9
+Total Causas respiratorias 	29		6		13		8		2
+Bronquitis-SOB 			4		1		2		0		1
+Influenza 	 	 		0		0		0		0		0
+Neumonías 	 	 		0		0		0		0		0
+Resto causas respiratorias 	25		5		11		8		1
+
+Hospitalizaciones diarias en Urgencia por causas respiratorias
+Total	-1año	1-14años	15-64años	65y más
+0	  0	  0		  0		  0
+
+Hospitalizaciones diarias en Urgencia por otras causas
+Total	-1año	1-14años	15-64años	65y más
+0	  0	  0			  0		  0
+
+	Atentamente

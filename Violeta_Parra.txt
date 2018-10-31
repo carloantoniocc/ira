@@ -1,0 +1,23 @@
+Sres.DEIS:
+
+Establecimiento:Violeta Parra
+Fecha: 2009-05-27
+
+Atenciones diarias de Urgencias por causas respiratorias
+Causas 			 Total 	 -1 año 	1-4 años	5-14años	15-64años	65y más
+Total atenciones urgencia 	79		3		17	14		42		3
+Total Causas respiratorias 	35		3		14	5		13		0
+Bronquitis-SOB 			4		1		2	0		1		0
+Influenza 	 	 		0		0		0	0		0		0
+Neumonías 	 	 		0		0		0	0		0		0
+Resto causas respiratorias 	31		2		12	5		12		0
+
+Hospitalizaciones diarias en Urgencia por causas respiratorias
+Total	-1año	1-4años	5-14años	15-64años	65y más
+0	  0	  		  		  0		  0
+
+Hospitalizaciones diarias en Urgencia por otras causas
+Total	-1año	1-4años	5-14años	15-64años	65y más
+0	  0	  		  		  0		  0
+
+	Atentamente

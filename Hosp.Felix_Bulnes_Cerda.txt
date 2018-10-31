@@ -1,0 +1,30 @@
+Sres.DEIS:
+
+Establecimiento:Hosp.Felix Bulnes Cerda
+Fecha: 2007-06-08
+
+ATENCIONES Y HOSPITALIZACIONES DIARIAS EN URGENCIA
+Atencion y hospitalizaciones  Total -1a   1-4a  5-14a 15-64a 65ymas
+1.TOTAL ATENCIONES URGENCIA   403	 75	 125	 203	 0	 0
+TOTAL CAUSAS RESPIRATORIAS    99	 32	 51	 16	 0	 0
+IRA Altas                     18	 3	 12	 3	 0	 0
+Neumonias                     13	 6	 5	 2	 0	 0
+Crisis obstructivas bronquial.48	 19	 25	 4	 0	 0
+Otras causas respiratorias    20	 4	 9	 7	 0	 0
+TOTAL CAUSAS CIRCULATORIAS    0	 0	 0	 0	 0	 0
+Infarto agudo miocardio       0	 0	 0	 0	 0	 0
+Accidente vascular encefalico 0	 0	 0	 0	 0	 0
+Crisis Hipertensiva           0	 0	 0	0	 0	 0
+Arritmia severa               0	 0	 0	 0	 0	 0
+Otras causas circulatorias    0	 0	 0	 0	 0	 0
+TOTAL TRAUMATISMOS y ENVENENA 49	 0	 3	 46	 0	 0
+Accidentes de Transito        49	 0	 3	 46	 0	 0
+Otras causas externas         0	 0	 0	 0	 0	 0
+TOTAL DEMAS CAUSAS            255	 43	 71	 141	 0	 0
+
+2.HOSPITALIZACIONES 
+POR CAUSAS RESPIRATORIAS      0	  0	  0	  0	  0	  0
+POR CAUSAS CIRCULATORIAS      0	 0	 0	 0	 0	 0
+POR TRAUMATISMOS y ENVENENAMI 0	 0	 0	 0	 0	 0
+POR LAS DEMAS CAUSAS          0	 0	 0	 0	 0	 0
+	Atentamente

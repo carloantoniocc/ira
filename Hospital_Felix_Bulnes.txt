@@ -1,0 +1,31 @@
+Sres.DEIS:
+
+Establecimiento:Hospital Felix Bulnes
+Fecha: 2009-07-01
+
+ATENCIONES Y HOSPITALIZACIONES DIARIAS EN URGENCIA
+Atencion y hospitalizaciones  Total -1a   1-4a  5-14a 15-64a 65ymas
+1.TOTAL ATENCIONES URGENCIA   312	 78	 133	 101	 0	 0
+TOTAL CAUSAS RESPIRATORIAS    182	 58	 90	 34	 0	 0
+IRA Altas                     18	 4	 13	 1	 0	 0
+Neumonias                     14	 6	 7	 1	 0	 0
+Crisis obstructivas bronquial.98	 34	 46	 18	 0	 0
+Otras causas respiratorias    52	 14	 24	 14	 0	 0
+TOTAL CAUSAS CIRCULATORIAS    0	 0	 0	 0	 0	 0
+Infarto agudo miocardio       0	 0	 0	 0	 0	 0
+Accidente vascular encefalico 0	 0	 0	 0	 0	 0
+Crisis Hipertensiva           0	 0	 0	0	 0	 0
+Arritmia severa               0	 0	 0	 0	 0	 0
+Otras causas circulatorias    0	 0	 0	 0	 0	 0
+TOTAL TRAUMATISMOS y ENVENENA 41	 5	 9	 27	 0	 0
+Accidentes de Transito        0	 0	 0	 0	 0	 0
+Otras causas externas         41	 5	 9	 27	 0	 0
+TOTAL DEMAS CAUSAS            89	 15	 34	 40	 0	 0
+
+2.HOSPITALIZACIONES 
+POR CAUSAS RESPIRATORIAS      20	  14	  5	  0	  1	  0
+POR CAUSAS CIRCULATORIAS      0	 0	 0	 0	 0	 0
+POR TRAUMATISMOS y ENVENENAMI 0	 0	 0	 0	 0	 0
+Cirugías de Urgencias         8	 0	 0	 4	 2	 2
+POR LAS DEMAS CAUSAS          5	 0	 1	 1	 2	 1
+	Atentamente
